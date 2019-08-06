@@ -58,7 +58,7 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #61f2f5;
+  background-color: #8adfdc;
   padding: 50px 0 20px;
 }
 
@@ -86,6 +86,7 @@ a:hover {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+  font-family: sans-serif;
 }
 
 .top-cloud {
